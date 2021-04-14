@@ -1,0 +1,12 @@
+div.first{
+    height: 150px;
+    width: 200px;
+    color: white;
+    background: -moz-radial-gradient(green, yellow, blue);
+}
+div.second{
+    height: 150px;
+    width: 200px;
+    color: white;
+    background: -moz-radial-gradient(circle, green, yellow, blue);
+}
